@@ -1,0 +1,78 @@
+.table-headers
+{
+	background-color:#999;
+	color:#fff;
+	text-align:left;
+	padding:5px;
+	font-size:8pt;
+}
+
+.ruledlist
+{
+	border-bottom:1px solid #ccc;
+	padding-top:3px;
+	padding-bottom:3px;
+}
+
+.last
+{
+	border:none;
+}
+
+.halfcol
+{
+	width:50%;
+	float:left;
+}
+
+.fullcol
+{
+	width:100%;
+}
+
+.vertical-padding
+{
+	margin-bottom:15px;
+}
+
+.group
+{
+	margin-bottom:10px;
+}
+
+.major
+{
+	text-tranform: uppercase;
+	font-weight:bold;
+	color:#65aa13;
+}
+
+.minor
+{
+	font-weight:bold;
+}
+
+.feature
+{
+	
+}
+
+.level
+{
+	margin:0;
+	padding:0;
+}
+.level1
+{
+	padding-bottom:5px;
+	font-size:11pt;
+}
+.level2
+{
+	margin-left:15px;
+}
+
+.level3
+{
+	margin-left:30px;
+}
